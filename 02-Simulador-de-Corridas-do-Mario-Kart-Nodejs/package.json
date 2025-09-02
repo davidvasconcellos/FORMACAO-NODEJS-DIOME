@@ -1,8 +1,9 @@
 {
   "name": "02-simulador-de-corridas-do-mario-kart-nodejs",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.1",
+  "description": "Projeto inicial do modulo de Node Js. da DIOME",
   "main": "index.js",
+  "autor": "David Linhares",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
